@@ -151,21 +151,16 @@ awards:
     title: Accomplishments &amp; Awards
     intro: |
       Recognized for various roles & projects in both Indian Army & Corporate Experience
-    papers:
-      - title: G.O.C-in-C's Eastern Command Commendation Card
+    accomplishments:
+      - title: "G.O.C-in-C's Eastern Command Commendation Card"
         link: "#"
         authors: Gen V.K.Singh
         conference: Defence Exponet - India International Trade Fair, Nov 2007
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Appreciation Letter"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Ital-Thai Corporation Bangkok, Thailand
+        conference: Ital-Thai Corporation Bangkok, Thailand, Jan 2012
 
 skills:
     title: Skills &amp; Proficiency

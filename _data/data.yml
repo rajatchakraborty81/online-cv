@@ -147,17 +147,15 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-accomplishments:
-    title: Accomplishments
+awards:
+    title: Accomplishments &amp; Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Recognized for various roles & projects in both Indian Army & Corporate Experience
     papers:
-      - title: The Art of Computer Programming
+      - title: G.O.C-in-C's Eastern Command Commendation Card
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Gen V.K.Singh
+        conference: Defence Exponet - India International Trade Fair, Nov 2007
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"

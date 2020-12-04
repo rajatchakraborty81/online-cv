@@ -67,6 +67,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
     - degree: Course in Business Management
       university: IIM Indore
       time: 2011 - 2011
@@ -103,7 +104,7 @@ experiences:
         ‘Auto-Stem Technology’, in India, by coordinating project
         processes as per the ‘Explosive Rules 2008’ and ‘United
         Nations Regulations for Dangerous Goods’
-     - role: Manager Projects (Explosives)
+    - role: Manager Projects (Explosives)
       time: 2011 - 2012
       company: Alchemist Group, New Delhi
       details: |
@@ -111,7 +112,7 @@ experiences:
         for set up of its manufacturing plant in India and
         Georgia(Asia), as per ‘Explosive Rules, 2008’,‘UN I.A.T.G.
         Regulations’, and ‘Building Regulations, Georgia
-      - role: Major|Corps of Engineers
+    - role: Major|Corps of Engineers
       time: 2005 - 2011
       company: Indian Army
       details: |

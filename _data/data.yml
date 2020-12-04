@@ -121,27 +121,11 @@ experiences:
         with expertize in 'Bomb Disposal', NBC Warfare & Disaster Management.The roles included:-
           - Officer-In-Charge with Border Roads Organization and responsible for highway projects of strategic “Indo-China Border Roads” worth Rs. 18.50 crores.Implemented MES procedures for project planning, finance and execution.
           - Operational appointments as an Engineer Officer in North East India with expertise in Bomb Disposal,NBC Warfare & Counter-Intelligence Operations. 
-    - role: Major|Corps of Engineers
-      time: 2005 - 2011
-      company: Indian Army
-      details: |
-        As an officer in the Indian Army, deployed for active duty with varied
-        degree of challenges & responsibilities in Combat Engineering 
-        with expertize in 'Bomb Disposal', NBC Warfare & Disaster Management.The roles included:-
-            - Officer-In-Charge with Border Roads Organization and responsible for highway projects of strategic “Indo-China Border Roads” worth Rs. 18.50 crores.Implemented MES procedures for project planning, finance and execution.
-            - Operational appointments as an Engineer Officer in North East India with expertise in Bomb Disposal,NBC Warfare & Counter-Intelligence Operations. 
-
+    
 projects:
     title: Projects
     intro: >
-          - Project Planning & Execution
-          - Process Development
-          - Project Security 
-          - Team Building 
-          - Contracts 
-          - Stakeholder Management 
-          - Budgeting 
-          - Business Development 
+
     assignments:
       - title: Velocity
         link: "#hook"
@@ -163,8 +147,8 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+accomplishments:
+    title: Accomplishments
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -189,22 +173,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Project Planning & Execution
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Process Development
         level: 98%
 
-      - name: Angular
+      - name: Team Building & Organizational Culture
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Project Contracts & Stakeholder Management
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Project Security
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Budgeting
         level: 60%
 
 footer: >

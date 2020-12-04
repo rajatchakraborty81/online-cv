@@ -52,15 +52,13 @@ career-profile:
       spanning nearly two decades both while in
       service with Indian Armed Forces as well as in
       Corporate profile that include:-
-          - Bullet point - As an officer in the Indian Armed
-            Forces with varied leadership roles & challenges.
-          - Bullet point - In different project roles in the Corporate Industry in leadership,
-            project development, project planning & execution
+          - Bullet point - As an officer in the Indian Armed Forces with varied leadership roles & challenges.
+          - Bullet point - In different project roles in the Corporate Industry in leadership,project development, project planning & execution
             
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.E Electrical
+      university: University of Pune
+      time: 2000 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +67,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - specialization: Course in Business Management
+      university: IIM Indore
+      time: 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
